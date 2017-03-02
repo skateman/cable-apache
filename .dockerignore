@@ -1,0 +1,7 @@
+.dockerignore
+.git
+apache.conf
+Dockerfile
+Gemfile.lock
+log
+tmp
